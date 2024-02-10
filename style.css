@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+     /* background: linear-gradient(20deg, #d2001a, blue,#f48e21); */
+    background-repeat: no-repeat; 
+    background: content-box radial-gradient(red, rgb(76, 0, 255));
+   
+    
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    background-color: bisque;
+    border-radius: 20px ;
+    border: 40px solid rgb(3, 3, 89);
+box-shadow:12px 12px 2px 1px whitesmoke;
+    margin: 3% auto;
+}
+td input{
+    width: 215px;
+    height: 30px;
+    font-size: 22px;
+    background-color: white;
+}
+td .inp{
+    width: 225px;
+}
+button{
+    border: 5px solid aqua;
+    width: 55px;
+    height: 50px;
+    background-color:  rgb(3, 3, 89);
+    color: rgb(221, 221, 209);
+    border-radius: 10px;
+}
+#plus{
+    height: 104px;
+}
+td button{
+    font-size: 30px ;
+}
+  .btn{
+    background-color:rgb(255, 85, 0) ;
+    border-color: rgb(239, 18, 18);
+}
